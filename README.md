@@ -56,7 +56,7 @@ Logistic Regression
 
 K-Nearest Neighbors (KNN)
 
-🔹 Used k=6 neighbors (chosen empirically)
+🔹 Used k=5 neighbors (chosen empirically)
 
 4️⃣ Model Evaluation
 
